@@ -1,7 +1,21 @@
-# ¡Hola!
+# ¡Hola! 👋
+Me llamo Andrés Sánchez y soy Técnico en Telecomunicaciones y Sistemas Informáticos, especializado en Ciberseguridad IT.
+
+---
+
 ## Sobre mí
-💻 Me llamo Andrés Sánchez y soy Técnico en Telecomunicaciones y Sistemas Informáticos, especializado en Ciberseguridad IT.
-Cuento con experiencia en análisis forense, bastionado de redes, hacking ético y respuesta ante incidentes. Actualmente enfocado en Pentesting y Red Team, preparándome para la certificación eJPT.
+Dispongo de un perfil amplio dentro del ámbito de la ciberseguridad, dónde se destacan conocimientos en:
+- Hacking ético
+- Análisis forense
+- Hardening de sistemas
+- Análisis de incidentes
+- Conocimientos sólidos en Windows y Linux
+- Conocimientos en bases de datos SQL
+- Scripting en Python y Powershell  
+- Familiarizado con normativas NIS1, NIS2, ENS y OWASP.  
+
+Considero que la comunicación es fundamental en el sector, por lo que disfruto mucho trabajando en equipo.
+A lo largo de mi experiencia, he potenciado esta pasión liderando equipos y gestionando comunidades en el ámbito de los videojuegos, desarrollando habilidades clave en colaboración y coordinación.
 
 ---
 
