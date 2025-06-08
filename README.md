@@ -20,6 +20,6 @@ A lo largo de mi experiencia, he potenciado esta pasión liderando equipos y ges
 ---
 
 ## 📫 Contacto
-- 🔗 LinkedIn: [https://www.linkedin.com/in/andres-s%C3%A1nchez-garc%C3%ADa/]  
+- 🔗 LinkedIn: [Andrés Sanchez](https://www.linkedin.com/in/andres-s%C3%A1nchez-garc%C3%ADa/)
 - 🌐 Portafolio: [https://www.codeespu.github.io](https://www.codeespu.github.io)  
 
