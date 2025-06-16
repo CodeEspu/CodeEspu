@@ -1,5 +1,5 @@
 # ¡Hola! 👋
-Me llamo Andrés Sánchez y soy Técnico en Telecomunicaciones y Sistemas Informáticos, especializado en Ciberseguridad IT.
+Soy Andrés Sánchez, Técnico en Telecomunicaciones y Sistemas Informáticos, con especialización en Ciberseguridad IT.
 
 ---
 
