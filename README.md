@@ -17,7 +17,6 @@ Dispongo de un perfil amplio dentro del ámbito de la ciberseguridad, dónde se 
 
 Considero que la comunicación es fundamental en el sector, por lo que disfruto mucho trabajando en equipo.  
 
-A lo largo de mi experiencia, he potenciado esta pasión liderando equipos y gestionando comunidades en el ámbito de los videojuegos, desarrollando habilidades clave en colaboración y coordinación.
 
 ---
 
